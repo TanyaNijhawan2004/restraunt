@@ -4,10 +4,12 @@
     position: relative;
     height:70px;
     padding-bottom: 1%;
+    overflow: hidden;
 }
 body{
     margin: 0%;
     padding: 0%;
+    overflow: hidden;
 }
 .webname{
     padding-right: 40px;
