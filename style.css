@@ -152,4 +152,8 @@ body{
     [class*="dish"] {
       width: 100%;
     }
+    [class*="body"] {
+        width:100vw;
+        overflow-x:hidden;
+      }
   }
