@@ -4,12 +4,12 @@
     position: relative;
     height:70px;
     padding-bottom: 1%;
-    overflow: hidden;
 }
 body{
     margin: 0%;
     padding: 0%;
-    overflow: scroll;
+    width:100vw;
+    overflow-x:hidden;
 }
 .webname{
     padding-right: 40px;
